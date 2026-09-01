@@ -1,0 +1,6 @@
+{
+  "name": "Fit Tracker & Planner",
+  "description": "Offline fitness tracker & multi-week workout planner with interactive home dashboard, progress line graphs, body measurement logging, and smart local workout reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
